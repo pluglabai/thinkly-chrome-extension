@@ -18,7 +18,7 @@ It is not for:
 ## Current status
 
 - Preview-only beta branch
-- No installable beta ZIP is published here yet
+- Installable beta ZIP can be published only after generating it from the private monorepo with a separate beta extension key and a separate beta Google OAuth client
 - Stable install instructions remain on the `main` branch
 
 ## What is changing in beta
@@ -43,7 +43,21 @@ For the current stable public distribution surface, use:
 
 - prerelease tag: `chrome-extension-beta-v4.1.0-beta.1`
 
-This prerelease is preview-only and does not ship an installable ZIP.
+This prerelease may contain preview docs and screenshots before an installable beta ZIP is attached.
+
+## Preview screenshots
+
+### Popup shell
+
+![Thinkly Beta popup shell](assets/popup-shell.png)
+
+### Onboarding
+
+![Thinkly Beta onboarding](assets/onboarding.png)
+
+### Inline status pill
+
+![Thinkly Beta status pill](assets/status-pill.png)
 
 ## Feedback
 
