@@ -23,8 +23,8 @@ It is not for:
 
 ## Download beta ZIP
 
-- [Download `thinkly-beta-v4.2.0-beta.7.zip`](https://github.com/pluglabai/thinkly-chrome-extension/raw/beta-preview/thinkly-beta-v4.2.0-beta.7.zip)
-- Beta release notes: https://github.com/pluglabai/thinkly-chrome-extension/releases/tag/chrome-extension-beta-v4.2.0-beta.7
+- [Download `thinkly-beta-v4.2.0-beta.8.zip`](https://github.com/pluglabai/thinkly-chrome-extension/raw/beta-preview/thinkly-beta-v4.2.0-beta.8.zip)
+- Beta release notes: https://github.com/pluglabai/thinkly-chrome-extension/releases/tag/chrome-extension-beta-v4.2.0-beta.8
 
 ## What is changing in beta
 
@@ -32,6 +32,8 @@ The current beta focus is extension v2 foundation work:
 
 - GTM-focused onboarding and popup copy
 - free AI organization sync CTA across Feed, Stats, and Settings
+- auto-capture action fixes for long-running ChatGPT responses
+- Pause Capture, Save this turn, and Open Dashboard status actions now recover from stuck states
 - Quick Save remains local-first when post-save sync queueing fails
 - side-panel spacing improved for pinned Chrome extension use
 - category UI hidden from popup and Quick Save surfaces
@@ -54,7 +56,7 @@ For the current stable public distribution surface, use:
 
 ## Beta prerelease
 
-- prerelease tag: `chrome-extension-beta-v4.2.0-beta.7`
+- prerelease tag: `chrome-extension-beta-v4.2.0-beta.8`
 
 This prerelease may contain preview docs and screenshots before an installable beta ZIP is attached.
 
