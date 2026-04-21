@@ -22,6 +22,12 @@ It is not for:
 - A future beta may switch to a separate beta extension key and separate beta Google OAuth client
 - Stable install instructions remain on the `main` branch
 
+## Download beta ZIP
+
+- [Download `thinkly-beta-v4.1.0.zip`](https://github.com/pluglabai/thinkly-chrome-extension/releases/download/chrome-extension-beta-v4.1.0-beta.1/thinkly-beta-v4.1.0.zip)
+- Beta release notes: https://github.com/pluglabai/thinkly-chrome-extension/releases/tag/chrome-extension-beta-v4.1.0-beta.1
+
+
 ## What is changing in beta
 
 The current beta focus is extension v2 foundation work:
