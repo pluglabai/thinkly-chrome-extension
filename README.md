@@ -23,8 +23,8 @@ It is not for:
 
 ## Download beta ZIP
 
-- [Download `thinkly-beta-v4.2.0-beta.2.zip`](https://github.com/pluglabai/thinkly-chrome-extension/releases/download/chrome-extension-beta-v4.2.0-beta.2/thinkly-beta-v4.2.0-beta.2.zip)
-- Beta release notes: https://github.com/pluglabai/thinkly-chrome-extension/releases/tag/chrome-extension-beta-v4.2.0-beta.2
+- [Download `thinkly-beta-v4.2.0-beta.3.zip`](https://github.com/pluglabai/thinkly-chrome-extension/releases/download/chrome-extension-beta-v4.2.0-beta.3/thinkly-beta-v4.2.0-beta.3.zip)
+- Beta release notes: https://github.com/pluglabai/thinkly-chrome-extension/releases/tag/chrome-extension-beta-v4.2.0-beta.3
 
 ## What is changing in beta
 
@@ -46,7 +46,7 @@ For the current stable public distribution surface, use:
 
 ## Beta prerelease
 
-- prerelease tag: `chrome-extension-beta-v4.2.0-beta.2`
+- prerelease tag: `chrome-extension-beta-v4.2.0-beta.3`
 
 This prerelease may contain preview docs and screenshots before an installable beta ZIP is attached.
 
