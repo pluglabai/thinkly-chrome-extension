@@ -2,9 +2,9 @@
 
 1. Create or update branch: `beta-preview`
 2. Commit the preview scaffold files on that branch
-3. Create or update prerelease tag: `chrome-extension-beta-v4.1.0-beta.1`
+3. Create or update prerelease tag: `chrome-extension-beta-v4.2.0-beta.1`
 4. Publish a GitHub prerelease with:
    - screenshots and docs at minimum
-   - installable beta ZIP if available
-   - release notes that clearly state whether the beta replaces the stable build
-5. Verify README clearly states whether the beta can be installed alongside stable
+   - optional installable beta ZIP only if it was generated with a separate beta key and separate beta Google OAuth client
+   - release notes pointing users to the stable branch for default installs
+5. Verify README clearly states this branch is preview-only
