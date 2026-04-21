@@ -1,7 +1,7 @@
 # Changelog
 
-## chrome-extension-v4.1.0
+## chrome-extension-beta-v4.1.0-beta.1
 
-- Replaced the old public distribution artifact with a store-safe ZIP.
-- Removed the top-level `manifest.key` field from the public release package.
-- Removed legacy `0.4.9` public distribution references.
+- Added a dedicated `beta-preview` public branch for Chrome extension v2 preview updates.
+- Clarified that beta is preview-only and does not yet publish installable artifacts.
+- Published the first public summary of extension v2 foundation work.

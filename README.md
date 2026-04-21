@@ -1,24 +1,55 @@
-# Thinkly Chrome Extension
+# Thinkly Chrome Extension Beta Preview
 
-Public distribution repository for the Thinkly Chrome extension store package.
+This branch is the public beta-preview surface for the Thinkly Chrome extension.
 
-This repository only keeps the store-safe release artifact:
+It is for:
 
-- `thinkly-webstore-v4.1.0.zip`
+- upcoming v2 foundation notes
+- UI and onboarding preview screenshots
+- beta release notes
+- known gaps before a public installable beta
 
-Install and development source of truth live in the private Thinkly monorepo:
+It is not for:
 
-- https://github.com/pluglabai/thinkly
+- stable installation
+- Chrome Web Store upload assets
+- load-unpacked developer builds
 
-## Store Package
+## Current status
 
-- Release tag: `chrome-extension-v4.1.0`
-- Release asset: `thinkly-webstore-v4.1.0.zip`
+- Preview-only beta branch
+- No installable beta ZIP is published here yet
+- Stable install instructions remain on the `main` branch
 
-This ZIP is prepared for Chrome Web Store upload and does not include the top-level
-`manifest.key` field.
+## What is changing in beta
 
-## Notes
+The current beta focus is extension v2 foundation work:
 
-- Direct-install and load-unpacked developer artifacts are not published in this repo.
-- Historical `0.4.9` distribution files were removed from this repository.
+- popup shell refresh
+- onboarding and settings foundation
+- inline capture UI refresh
+- status pill groundwork
+- Gemini validation support
+- main-world page bridge groundwork
+
+## Stable branch
+
+For the current stable public distribution surface, use:
+
+- branch: `main`
+- release tag: `chrome-extension-v4.1.0`
+
+## Beta prerelease
+
+- prerelease tag: `chrome-extension-beta-v4.1.0-beta.1`
+
+This prerelease is preview-only and does not ship an installable ZIP.
+
+## Feedback
+
+Until installable beta builds are published, feedback should be based on:
+
+- release notes
+- screenshots
+- product walkthroughs
+- direct coordination with the Thinkly team

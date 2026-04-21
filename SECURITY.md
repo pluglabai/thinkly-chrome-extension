@@ -1,4 +1,7 @@
-# Security
+# Security Policy
 
-If you believe a public release artifact exposes sensitive data, contact PlugLab
-immediately and open a private security report through the main Thinkly channels.
+Do not report security issues in public issues.
+
+Please send security reports privately to the Thinkly team through the existing security contact channel.
+
+This preview branch does not publish installable extension binaries.
