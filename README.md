@@ -18,7 +18,8 @@ It is not for:
 ## Current status
 
 - Preview-only beta branch
-- Installable beta ZIP can be published only after generating it from the private monorepo with a separate beta extension key and a separate beta Google OAuth client
+- Current installable beta ZIP uses the stable extension identity, so it should not be installed alongside the stable build
+- A future beta may switch to a separate beta extension key and separate beta Google OAuth client
 - Stable install instructions remain on the `main` branch
 
 ## What is changing in beta
@@ -43,7 +44,9 @@ For the current stable public distribution surface, use:
 
 - prerelease tag: `chrome-extension-beta-v4.1.0-beta.1`
 
-This prerelease may contain preview docs and screenshots before an installable beta ZIP is attached.
+This prerelease now includes an installable beta ZIP built with the current stable extension identity.
+
+Do not install it alongside the stable build. It is a replacement-style beta.
 
 ## Preview screenshots
 
