@@ -23,13 +23,15 @@ It is not for:
 
 ## Download beta ZIP
 
-- [Download `thinkly-beta-v4.2.0-beta.4.zip`](https://github.com/pluglabai/thinkly-chrome-extension/raw/beta-preview/thinkly-beta-v4.2.0-beta.4.zip)
-- Beta release notes: https://github.com/pluglabai/thinkly-chrome-extension/releases/tag/chrome-extension-beta-v4.2.0-beta.4
+- [Download `thinkly-beta-v4.2.0-beta.5.zip`](https://github.com/pluglabai/thinkly-chrome-extension/raw/beta-preview/thinkly-beta-v4.2.0-beta.5.zip)
+- Beta release notes: https://github.com/pluglabai/thinkly-chrome-extension/releases/tag/chrome-extension-beta-v4.2.0-beta.5
 
 ## What is changing in beta
 
 The current beta focus is extension v2 foundation work:
 
+- GTM-focused onboarding and popup copy
+- category UI hidden from popup and Quick Save surfaces
 - popup header alignment and compact Pin / Export actions
 - Capture v2 setup banner persistence fix
 - safer auto-capture timing for streaming AI answers
@@ -49,7 +51,7 @@ For the current stable public distribution surface, use:
 
 ## Beta prerelease
 
-- prerelease tag: `chrome-extension-beta-v4.2.0-beta.4`
+- prerelease tag: `chrome-extension-beta-v4.2.0-beta.5`
 
 This prerelease may contain preview docs and screenshots before an installable beta ZIP is attached.
 
