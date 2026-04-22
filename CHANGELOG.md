@@ -1,5 +1,12 @@
 # Changelog
 
+## chrome-extension-beta-v4.2.0-beta.17
+
+- Restored Gemini broad fallback capture so missing role selectors still save multiple visible exchanges.
+- Removed Gemini latest-only filtering while preserving provider chrome filtering.
+- Added Claude feedback-button action anchor handling.
+- Deduped Claude assistant blocks to reduce duplicate response captures.
+
 ## chrome-extension-beta-v4.2.0-beta.16
 
 - Added broader Gemini capture selectors for chat-window, chat-history, query-text, model-response-text, and markdown response structures.
