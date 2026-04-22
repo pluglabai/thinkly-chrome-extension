@@ -1,5 +1,12 @@
 # Changelog
 
+## chrome-extension-beta-v4.2.0-beta.16
+
+- Added broader Gemini capture selectors for chat-window, chat-history, query-text, model-response-text, and markdown response structures.
+- Added broader Claude capture selectors for rendered turn, font-claude-response, and data-is-streaming response structures.
+- Added open shadow root traversal for provider DOM capture queries.
+- Added explicit No chat found status when manual save cannot locate a provider chat turn.
+
 ## chrome-extension-beta-v4.2.0-beta.15
 
 - Added Gemini auto-capture support for current user-query and model-response DOM structures.
