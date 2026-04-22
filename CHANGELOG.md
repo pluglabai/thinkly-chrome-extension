@@ -1,5 +1,12 @@
 # Changelog
 
+## chrome-extension-beta-v4.2.0-beta.18
+
+- Restored Gemini to common DOM role/fallback pairing instead of Gemini-only latest capture.
+- Kept Gemini user-query, model-response, query-text, and markdown nodes in the common extractor.
+- Added Claude support for font-user-message and split render container pairing.
+- Expanded Claude assistant capture across font-claude-response, action bars, and feedback anchors.
+
 ## chrome-extension-beta-v4.2.0-beta.17
 
 - Restored Gemini broad fallback capture so missing role selectors still save multiple visible exchanges.

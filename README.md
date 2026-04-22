@@ -23,14 +23,16 @@ It is not for:
 
 ## Download beta ZIP
 
-- [Download `thinkly-beta-v4.2.0-beta.17.zip`](https://github.com/pluglabai/thinkly-chrome-extension/raw/beta-preview/thinkly-beta-v4.2.0-beta.17.zip)
-- Beta release notes: https://github.com/pluglabai/thinkly-chrome-extension/releases/tag/chrome-extension-beta-v4.2.0-beta.17
+- [Download `thinkly-beta-v4.2.0-beta.18.zip`](https://github.com/pluglabai/thinkly-chrome-extension/raw/beta-preview/thinkly-beta-v4.2.0-beta.18.zip)
+- Beta release notes: https://github.com/pluglabai/thinkly-chrome-extension/releases/tag/chrome-extension-beta-v4.2.0-beta.18
 
 ## What is changing in beta
 
 The current beta focus is extension v2 foundation work:
 
 - two-row selection action bar so Review, Export, and Delete stay readable in pinned mode
+- Gemini now uses common ChatGPT-style DOM pairing instead of Gemini-only latest capture
+- Claude capture supports split render containers and newer font-user-message structures
 - Gemini broad fallback capture restored so missing role selectors still save visible exchanges
 - Claude feedback-button action anchors improved for response capture
 - Gemini and Claude auto-capture fixes for current production DOM structures
@@ -77,7 +79,7 @@ For the current stable public distribution surface, use:
 
 ## Beta prerelease
 
-- prerelease tag: `chrome-extension-beta-v4.2.0-beta.17`
+- prerelease tag: `chrome-extension-beta-v4.2.0-beta.18`
 
 This prerelease may contain preview docs and screenshots before an installable beta ZIP is attached.
 
