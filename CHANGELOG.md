@@ -1,5 +1,11 @@
 # Changelog
 
+## chrome-extension-beta-v4.2.0-beta.12
+
+- Added a two-row selection action bar so Review, Export, and Delete stay readable in pinned mode.
+- Added search result counts to the Feed when a query is active.
+- Added a dismissible free AI organization CTA that stays hidden for 24 hours.
+
 ## chrome-extension-beta-v4.2.0-beta.11
 
 - Adds Feed review filters for All, To review, and Reviewed captures.

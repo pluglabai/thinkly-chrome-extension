@@ -23,13 +23,16 @@ It is not for:
 
 ## Download beta ZIP
 
-- [Download `thinkly-beta-v4.2.0-beta.11.zip`](https://github.com/pluglabai/thinkly-chrome-extension/raw/beta-preview/thinkly-beta-v4.2.0-beta.11.zip)
-- Beta release notes: https://github.com/pluglabai/thinkly-chrome-extension/releases/tag/chrome-extension-beta-v4.2.0-beta.11
+- [Download `thinkly-beta-v4.2.0-beta.12.zip`](https://github.com/pluglabai/thinkly-chrome-extension/raw/beta-preview/thinkly-beta-v4.2.0-beta.12.zip)
+- Beta release notes: https://github.com/pluglabai/thinkly-chrome-extension/releases/tag/chrome-extension-beta-v4.2.0-beta.12
 
 ## What is changing in beta
 
 The current beta focus is extension v2 foundation work:
 
+- two-row selection action bar so Review, Export, and Delete stay readable in pinned mode
+- search result counts in the Feed when a query is active
+- dismissible free AI organization CTA across Feed, Stats, and Settings
 - GTM-focused onboarding and popup copy
 - free AI organization sync CTA across Feed, Stats, and Settings
 - Feed review filters for All, To review, and Reviewed captures
@@ -61,7 +64,7 @@ For the current stable public distribution surface, use:
 
 ## Beta prerelease
 
-- prerelease tag: `chrome-extension-beta-v4.2.0-beta.11`
+- prerelease tag: `chrome-extension-beta-v4.2.0-beta.12`
 
 This prerelease may contain preview docs and screenshots before an installable beta ZIP is attached.
 
