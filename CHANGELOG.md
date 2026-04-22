@@ -1,5 +1,12 @@
 # Changelog
 
+## chrome-extension-beta-v4.2.0-beta.15
+
+- Added Gemini auto-capture support for current user-query and model-response DOM structures.
+- Kept Gemini auto-capture limited to the latest exchange to prevent full-thread backfills.
+- Improved Claude auto-capture across user-message, copy/action button, and message body fallbacks.
+- Clarified auto-capture status as local captures waiting for review before sync.
+
 ## chrome-extension-beta-v4.2.0-beta.14
 
 - Reserved more scroll space so bottom captures remain visible while selection actions are open.
