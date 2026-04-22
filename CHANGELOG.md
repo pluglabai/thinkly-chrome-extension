@@ -1,5 +1,12 @@
 # Changelog
 
+## chrome-extension-beta-v4.2.0-beta.14
+
+- Reserved more scroll space so bottom captures remain visible while selection actions are open.
+- Hardened Gemini capture to avoid broad DOM fallback and save only the latest role-bearing exchange.
+- Added Claude-specific DOM extraction from user-message and message-action anchors.
+- Blocked provider chrome, privacy, and help text before automatic capture saves.
+
 ## chrome-extension-beta-v4.2.0-beta.13
 
 - Sync now sends only reviewed captures, keeping unreviewed auto-captures local until approved.
