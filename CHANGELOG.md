@@ -1,5 +1,12 @@
 # Changelog
 
+## chrome-extension-beta-v4.2.0-beta.13
+
+- Sync now sends only reviewed captures, keeping unreviewed auto-captures local until approved.
+- Fixed ChatGPT, Claude, and Gemini platform attribution across sync payloads and popup stats.
+- Added floating contextual help for popup actions.
+- Replaced the onboarding Capture V2 label with the Thinkly logo and animated AI example cards.
+
 ## chrome-extension-beta-v4.2.0-beta.12
 
 - Added a two-row selection action bar so Review, Export, and Delete stay readable in pinned mode.
