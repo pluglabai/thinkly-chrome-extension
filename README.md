@@ -5,6 +5,7 @@ Public distribution repository for the Thinkly Chrome extension store package.
 This repository only keeps the store-safe release artifact:
 
 - `thinkly-webstore-v4.1.0.zip`
+- `thinkly-extension.zip`
 
 Install and development source of truth live in the private Thinkly monorepo:
 
@@ -14,9 +15,14 @@ Install and development source of truth live in the private Thinkly monorepo:
 
 - Release tag: `chrome-extension-v4.1.0`
 - Release asset: `thinkly-webstore-v4.1.0.zip`
+- Stable direct-download asset: `thinkly-extension.zip`
 
-This ZIP is prepared for Chrome Web Store upload and does not include the top-level
-`manifest.key` field.
+Direct download:
+
+- https://github.com/pluglabai/thinkly-chrome-extension/raw/main/thinkly-extension.zip
+
+These ZIP files are prepared from the current private monorepo source and do not
+include the top-level `manifest.key` field.
 
 ## Notes
 
